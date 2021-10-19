@@ -1,5 +1,12 @@
 sudo: true
 language: node_js
 node_js:
-  - 'node'
   - '17'
+install: npm ci
+jobs:
+  include:
+    - stage: test
+      script: bash ./travis/test.sh
+    - stage: build
+      if: type = push
+      script: bash ./travis/build.sh
