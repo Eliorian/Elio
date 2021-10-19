@@ -1,0 +1,24 @@
+{
+  "name": "Saurien",
+  "main": "index.js",
+  "author": "Eliorian",
+  "version": "1.0.0",
+  "repository": "",
+  "description": "A Simple Discord Bot From Eliorian",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+	"axios": "^0.22.0",
+    "discord.js": "^13.1.0",
+    "moment": "^2.29.1",
+	"cheerio": "^1.0.0-rc.10",
+	"moment": "^2.29.1",
+	"cpu-stat": "^2.0.1",
+    "ms": "^3.0.0-canary.1",
+	"moment-duration-format": "^2.3.2",
+    "weather-js": "^2.0.0",
+    "weky": "^3.1.8",
+	"discord.js-akinator": "^3.2.1"
+  }
+}
