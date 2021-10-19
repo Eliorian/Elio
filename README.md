@@ -1,3 +1,4 @@
+[![Version](https://img.shields.io/badge/Version-1.0.0-yellowgreen)](https://github.com/Eliorian/Elio/releases/tag/1.0.0)
 <img align="right" alt="Eliorian" width="350" src="./data/logo/logo.png">
 
 # Elio
