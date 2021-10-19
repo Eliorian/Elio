@@ -35,7 +35,7 @@ cd Elio
 ### 2.2. How To Change Bot Game
 
 ```sh
-- go to Saurien root folder
+- go to Elio root folder
 
 - open config.js
 
