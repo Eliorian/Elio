@@ -1,6 +1,6 @@
 <img align="right" alt="Eliorian" width="350" src="./data/logo/logo.png">
 
-# Saurien
+# Elio
 
 A Simple Discord Bot From Eliorian
 
