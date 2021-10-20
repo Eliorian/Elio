@@ -8,6 +8,7 @@
 
 # Utility Commands:
 1. `s!`calculator - Calculator in Discord
+1. `s!`covid - Returns covid statistics at specified country
 2. `s!`maps - Shows map data of the specified region
 3. `s!`weather - Show statistic weather for country or city search
 4. `s!`urban - Search meaning of slang words, and phrases
