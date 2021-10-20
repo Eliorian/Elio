@@ -1,0 +1,39 @@
+const { Client, Message, MessageEmbed } = require("discord.js");
+
+module.exports = {
+  name: "ban",
+  category: "moderation",
+  description: "Ban a user from the server",
+
+  async execute(client, message, args) {
+    const member = message.mentions.members.first();
+    if (!member)
+      return message.reply({ content: 'Please mention a member to ban!' });
+
+    if (message.member.roles.highest.position <= member.roles.highest.position)
+      return message.reply({
+        content:
+          "You can't punish because u either have the same role or your role is lower.",
+      });
+
+    const reason = args.slice(1).join(' ') || 'No Reason Provided';
+    const memberPfp = client.users.cache
+      .get(member.id)
+      .displayAvatarURL({ size: 512, dynamic: true });
+    const embed = new MessageEmbed()
+      .setTitle(`Successfully banned ${member.user.username} from this server!`)
+      .setThumbnail(memberPfp)
+      .addField('Banned User', `${member}`)
+      .addField('Moderator', `<@${message.author.id}>`)
+      .addField('Reason', `${reason}`)
+      .setColor('RED')
+      .setTimestamp();
+
+    await member.ban({ reason }).catch((err) =>
+      message.channel.send({
+        content: `An error has occured while trying to ban!\nError message :\n\`\`\`yml\n${err}\n\`\`\``,
+      })
+    );
+    message.channel.send({ embeds: [embed] });
+  },
+};

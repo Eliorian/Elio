@@ -8,10 +8,18 @@
 
 # Utility Commands:
 1. `s!`calculator - Calculator in Discord
-1. `s!`covid - Returns covid statistics at specified country
-2. `s!`maps - Shows map data of the specified region
-3. `s!`weather - Show statistic weather for country or city search
-4. `s!`urban - Search meaning of slang words, and phrases
+2. `s!`covid - Returns covid statistics at specified country
+3. `s!`maps - Shows map data of the specified region
+4. `s!`weather - Show statistic weather for country or city search
+5. `s!`urban - Search meaning of slang words, and phrases
+
+# Moderation Commands:
+1. `s!`ban - Ban a user from the server
+2. `s!`kick - Kick a user from the server
+3. `s!`unban - Unban a user from Server by their User ID
+
+# Bot Commands:
+1. `s!`help - Returns all Commmands, or one specific command
 
 # Contact:
 Help or support mail: `info@eliorian.com`
