@@ -7,13 +7,13 @@
 # Commands: <a name="commands"></a>
 
 # Fun Commands:
-`s!akinator` - Play akinator games
-`s!chat` - Chat with Bot
+1. `s!akinator` - Play akinator games
+2. `s!chat` - Chat with Bot
 
 # Utility Commands:
-`calculator` - Calculator in Discord
-`maps` - Shows map data of the specified region
-`weather` - Show statistic weather for country or city search
+1. `calculator` - Calculator in Discord
+2. `maps` - Shows map data of the specified region
+3. `weather` - Show statistic weather for country or city search
 
 # Contact: <a name="contact"></a>
 Help or support mail: `info@eliorian.com`
