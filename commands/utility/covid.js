@@ -24,13 +24,11 @@ module.exports = {
         .then((response) => response.json())
         .then((data) => {
           let confirmed = data.confirmed.value.toLocaleString();
-          let recovered = data.recovered.value.toLocaleString();
           let deaths = data.deaths.value.toLocaleString();
 
           const embed = new MessageEmbed()
             .setTitle(`Worldwide COVID-19 Stats 🌎`)
             .addField('Confirmed Cases', confirmed)
-            .addField('Recovered', recovered)
             .addField('Deaths', deaths)
             .setThumbnail(
               'https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/478px-SARS-CoV-2_without_background.png'
@@ -44,7 +42,6 @@ module.exports = {
         .then((response) => response.json())
         .then((data) => {
           let confirmed = data.confirmed.value.toLocaleString();
-          let recovered = data.recovered.value.toLocaleString();
           let deaths = data.deaths.value.toLocaleString();
 
           const embed = new MessageEmbed()
@@ -54,7 +51,6 @@ module.exports = {
             )
             .setColor('RED')
             .addField('Confirmed Cases', confirmed)
-            .addField('Recovered', recovered)
             .addField('Deaths', deaths);
 
           message.channel.send({ embeds: [embed] });
