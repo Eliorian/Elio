@@ -4,9 +4,7 @@ const fetch = require('node-fetch');
 module.exports = {
     name: 'maps',
     category: 'utility',
-    aliases: ['h'],
-    utilisation: '{prefix}help',
-    description: 'Returns all Commmands, or one specific command',
+    description: 'Shows map data of the specified region',
 
     async execute(client, message, args) {
 
