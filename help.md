@@ -1,7 +1,9 @@
+<img align="right" alt="Eliorian" width="350" src="./data/logo/logo.png">
+
 # Table of Contents
 1. [Commands](#commands)
 2. [Contact](#contact) 
-3. 
+
 # Commands: <a name="commands"></a>
 
 # Fun Commands:
