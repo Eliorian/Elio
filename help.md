@@ -5,7 +5,6 @@
 # Fun Commands:
 1. `s!`akinator - Play akinator games
 2. `s!`chat - Chat with Bot
-3. `s!`snake - Play snake games
 
 # Utility Commands:
 1. `s!`calculator - Calculator in Discord
