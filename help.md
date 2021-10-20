@@ -5,6 +5,8 @@
 # Fun Commands:
 1. `s!`akinator - Play akinator games
 2. `s!`chat - Chat with Bot
+3. `s!`tweet - Tweet something!
+4. `s!`8ball - Ask a question and let 8ball decide the answer
 
 # Utility Commands:
 1. `s!`calculator - Calculator in Discord
