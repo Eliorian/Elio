@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 
 module.exports = {
   name: "tweet",
-  category: "fun",
+  category: "image",
   description: "Tweet something!",
 
   async execute(client, message, args) {

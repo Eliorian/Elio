@@ -5,8 +5,7 @@
 # Fun Commands:
 1. `s!`akinator - Play akinator games
 2. `s!`chat - Chat with Bot
-3. `s!`tweet - Tweet something!
-4. `s!`8ball - Ask a question and let 8ball decide the answer
+3. `s!`8ball - Ask a question and let 8ball decide the answer
 
 # Utility Commands:
 1. `s!`calculator - Calculator in Discord
@@ -27,6 +26,7 @@
 1. `s!`affect - No, it doesnt affect my baby
 2. `s!`rip - F in the chat
 3. `s!`trigger - Converts a users avatar in triggered format !!
+4. `s!`tweet - Tweet something!
 
 # Contact:
 Help or support mail: `info@eliorian.com`
