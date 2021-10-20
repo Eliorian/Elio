@@ -32,6 +32,8 @@ cd Elio
 - open the config.js with notepad++ or any text editor
 
 - change the places in the config.js (example: px: s! to px: t! (px = Prefix))
+
+- change the bot token
 ```
 
 ### 2.2. How To Change Bot Game
