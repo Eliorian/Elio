@@ -23,5 +23,10 @@
 # Bot Commands:
 1. `s!`help - Returns all Commmands, or one specific command
 
+# Image Commands:
+1. `s!`affect - No, it doesnt affect my baby
+2. `s!`rip - F in the chat
+3. `s!`trigger - Converts a users avatar in triggered format !!
+
 # Contact:
 Help or support mail: `info@eliorian.com`
