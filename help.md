@@ -27,6 +27,8 @@
 2. `s!`rip - F in the chat
 3. `s!`trigger - Converts a users avatar in triggered format !!
 4. `s!`tweet - Tweet something!
+5. `s!`trash - Trash?
+6. `s!`wasted - Returns a wasted image
 
 # Contact:
 Help or support mail: `info@eliorian.com`
