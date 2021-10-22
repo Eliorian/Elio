@@ -18,9 +18,11 @@
 1. `s!`ban - Ban a user from the server
 2. `s!`kick - Kick a user from the server
 3. `s!`unban - Unban a user from Server by their User ID
+4. `s!`showid - Display a mentioned user ID
 
 # Bot Commands:
 1. `s!`help - Returns all Commmands, or one specific command
+2. `s!`botinfo - Sends detailed info about the client
 
 # Image Commands:
 1. `s!`affect - No, it doesnt affect my baby
