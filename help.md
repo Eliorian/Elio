@@ -6,6 +6,9 @@
 1. `s!`akinator - Play akinator games
 2. `s!`chat - Chat with Bot
 3. `s!`8ball - Ask a question and let 8ball decide the answer
+4. `s!`ascii - Converts text info ASCII
+5. `s!`luckwheel - Flip a luck wheel
+6. `s!`flip - Flips a coin
 
 # Utility Commands:
 1. `s!`calculator - Calculator in Discord
@@ -23,6 +26,8 @@
 # Bot Commands:
 1. `s!`help - Returns all Commmands, or one specific command
 2. `s!`botinfo - Sends detailed info about the client
+3. `s!`avatar - Show user's avatar
+4. `s!`userinfo - Returns user information
 
 # NSFW Commads:
 1. `s!`pussy - Show pussy images
