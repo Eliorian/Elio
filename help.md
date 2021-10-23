@@ -24,6 +24,12 @@
 1. `s!`help - Returns all Commmands, or one specific command
 2. `s!`botinfo - Sends detailed info about the client
 
+# NSFW Commads:
+1. `s!`pussy - Show pussy images
+2. `s!`pussywank - Show pussy masturbation image
+3. `s!`sologirl - Show solo girl images
+4. `s!`tits - Show tits image
+
 # Image Commands:
 1. `s!`affect - No, it doesnt affect my baby
 2. `s!`rip - F in the chat
