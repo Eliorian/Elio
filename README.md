@@ -1,5 +1,4 @@
 [![Version](https://img.shields.io/badge/Version-1.1.0-red)](https://github.com/Eliorian/Elio/releases/tag/1.1.0)
-[![Version](https://img.shields.io/badge/Discord-Online-blue)](https://discord.com/oauth2/authorize?client_id=900300224017346560&permissions=8&scope=bot)
 <img align="right" alt="Eliorian" width="350" src="./data/logo/logo.png">
 
 # Elio
